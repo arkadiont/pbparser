@@ -2,13 +2,12 @@ package pbparser_test
 
 import (
 	"fmt"
+	"github.com/arkadiont/pbparser"
 	"io"
 	"io/ioutil"
 	"os"
 	"path/filepath"
 	"strings"
-
-	"github.com/tallstoat/pbparser"
 )
 
 // Example code for the Parse() API

@@ -2,9 +2,8 @@ package pbparser_test
 
 import (
 	"fmt"
+	"github.com/arkadiont/pbparser"
 	"os"
-
-	"github.com/tallstoat/pbparser"
 )
 
 // Example code for the ParseFile() API

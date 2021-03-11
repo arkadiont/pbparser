@@ -2,10 +2,9 @@ package pbparser_test
 
 import (
 	"fmt"
+	"github.com/arkadiont/pbparser"
 	"regexp"
 	"testing"
-
-	"github.com/tallstoat/pbparser"
 )
 
 const (
