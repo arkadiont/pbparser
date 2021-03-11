@@ -1,3 +1,3 @@
-module github.com/tallstoat_fork/pbparser
+module github.com/arkadiont/pbparser
 
 go 1.12
